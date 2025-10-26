@@ -17,7 +17,7 @@ OOP - SOLID
 but tests regrettably missing.
 
 
-Packeges_
+Packages_
 
 AutoMapper Version: 12.0.0
 AutoMapper.Extensions.Microsoft.DependencyInjection Version: 12.0.0
