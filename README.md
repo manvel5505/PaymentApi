@@ -13,6 +13,7 @@ I used this approach to keep the logic clean,
 without any application-level or infrastructure-level elements such as EF or DTOs. 
 Because this violates the principles of DDD.
 
+OOP - SOLID
 but tests regrettably missing.
 
 
