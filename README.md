@@ -1,4 +1,4 @@
-About _>
+About_   >
 
 In this API, my main objective was to create more segmented code to improve the overall DDD style,
 and I also tried to integrate Entity Framework, 
@@ -15,3 +15,14 @@ Because this violates the principles of DDD.
 
 but tests regrettably missing.
 
+
+Packeges_
+
+AutoMapper Version: 12.0.0
+AutoMapper.Extensions.Microsoft.DependencyInjection Version: 12.0.0
+
+Microsoft.EntityframeworkCore.SqlServer Version: 9.0.0 
+Microsoft.EntityframeworkCore.Tools Version: 9.0.0
+Microsoft.EntityframeworkCore.Design Version: 9.0.0
+
+Swashbuckle.AspNetCore Version: 6.6.2 (Automatically after creating Web Api project)
