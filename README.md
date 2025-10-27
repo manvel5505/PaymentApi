@@ -2,7 +2,7 @@ About_   >
 
 In this API, my main objective was to create more segmented code to improve the overall DDD style,
 and I also tried to integrate Entity Framework, 
-but with more advanced capabilities such as transactions.
+but with more advanced capabilities such as explicit transactions.
 
 This was my first attempt at moving logic into domain-level services. Previously,
 I placed the logic in infrastructure-level services and used DTOs within them,
